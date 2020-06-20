@@ -1,0 +1,5 @@
+# Custom
+/app/build
+google-services.json
+.DS_Store
+.idea
